@@ -1,0 +1,143 @@
+,brand,accessories,bag style,skin type,hardware - metal type,hardware - num zips,hardware - strap type,strap length,num compartments,num components,major color,num colors,volume,num functionality,inner material,price
+0,Gucci,Chain,Handle Bag,Crocodile,Gold,1,Leather,42.0,2,5,Red,2,478.125,1,Calf,34000
+1,Gucci,Chain,Handle Bag,Crocodile,Gold,1,Leather,50.0,2,5,Black,3,478.125,1,Calf,31000
+2,Gucci,Logo,Shoulder Bag,Crocodile,Gold,1,Leather,45.0,3,4,Red,1,213.75,1,Calf,15000
+3,Gucci,Chain,Shoulder Bag,Snake,Gold,1,Metal,30.0,2,5,Blue,1,250.25,2,Seude,6700
+4,Gucci,Chain,Shoulder Bag,Snake,Gold,1,Metal,30.0,2,5,Beige,2,269.5,2,Seude,5900
+5,Gucci,Logo,Handle Bag,Snake,Gold,2,Leather,45.0,4,4,Grey,2,380.625,2,Calf,5500
+6,Gucci,Logo,Handle Bag,Python,Gold,2,Leather,45.0,4,4,Black,1,380.625,2,Calf,4900
+7,Gucci,Other,Handle Bag,Leather,Gold,0,Metal,50.0,2,4,White,1,480.0,2,Others,4900
+8,Gucci,Chain,Handle Bag,Leather,Gold,1,Leather,40.0,2,4,White,3,1138.5,2,Microfiber,4800
+9,Gucci,Chain,Handle Bag,Leather,Gold,1,Leather,40.0,2,4,Black,3,478.125,2,Seude,4700
+10,Gucci,Buckle,Handle Bag,Leather,Gold,1,Leather,45.0,2,5,Brown,3,526.5,2,Microfiber,4600
+11,Gucci,Chain,Shoulder Bag,Python,Silver,1,Metal,40.0,3,5,Multicolor,3,384.0,2,Seude,4500
+12,Gucci,Crystals,Shoulder Bag,Canvas,Silver,1,Metal,35.0,3,4,Beige,2,384.0,2,Seude,4400
+13,Gucci,Crystals,Shoulder Bag,"Canvas, Embroidery",Silver,1,Metal,35.0,3,5,Beige,2,384.0,2,Seude,4400
+14,Gucci,Chain,Shoulder Bag,"Leather, Embroidery",Gold,1,Metal,40.0,3,3,Black,3,269.5,2,Seude,4200
+15,Gucci,Crystals,Shoulder Bag,Leather,Silver,1,Leather,60.0,1,3,Black,1,343.0,2,Others,3980
+16,Gucci,Chain,Shoulder Bag,"Canvas, Embroidery",None,1,Metal,35.0,1,5,Beige,1,384.0,2,Seude,3980
+17,Gucci,Crystals,Shoulder Bag,Others,Silver,1,Metal,40.0,1,5,Black,1,269.5,2,Seude,3980
+18,Gucci,Buckle,Shoulder Bag,Python,Gold,1,Metal,45.0,2,6,Blue,2,360.0,2,Others,3800
+19,Gucci,Chain,Shoulder Bag,"Canvas, Embroidery",None,1,Metal,40.0,3,5,Beige,3,269.5,2,Seude,3800
+20,Gucci,Crystals,Shoulder Bag,Canvas,Silver,1,Metal,40.0,3,4,Beige,2,269.5,2,Seude,3790
+21,Gucci,Logo,Handle Bag,Python,Gold,3,Leather,60.0,3,4,Yellow,1,697.5,2,Seude,3700
+22,Gucci,Chain,Tote,Python,Silver,0,Leather,25.0,1,4,Burgundy,3,595.0,2,Seude,3700
+23,Gucci,Chain,Handle Bag,"Leather, Embroidery",Gold,1,Leather,40.0,3,4,White,3,478.125,2,Microfiber,3700
+24,Gucci,Other,Shoulder Bag,Snake,Silver,1,Metal,40.0,3,4,Beige,2,269.5,2,Seude,3690
+25,Gucci,Other,Shoulder Bag,Leather,Palladium,1,Metal,40.0,3,4,White,1,384.0,2,Others,3500
+26,Gucci,Other,Shoulder Bag,Snake,Gold,0,Leather,45.0,2,3,Brown,1,165.75,2,Calf,3500
+27,Hermes,Strap,Clutch,Crocodile,None,0,Leather,0.0,1,1,Blue,1,69.0,1,Calf,19300
+28,Hermes,Strap,Handle Bag,Calf,Palladium,0,Leather,10.0,1,4,Blue,2,1078.0,1,Calf,5450
+29,Hermes,Buckle,Handle Bag,Calf,Brass,0,Leather,10.0,1,8,Brown,2,714.0,1,Calf,10600
+30,Hermes,Buckle,Shoulder Bag,Calf,Palladium,2,Leather,50.0,3,3,Beige,1,232.04999999999998,1,Calf,10200
+31,Hermes,Buckle,Shoulder Bag,Calf,Palladium,1,Leather,50.0,4,3,Gold,1,118.5,1,Calf,9200
+32,Hermes,Buckle,Handle Bag,Calf,Palladium,0,Leather,30.0,1,4,Brown,1,700.0,2,Calf,8650
+33,Hermes,Buckle,Shoulder Bag,Calf,Palladium,0,Leather,50.0,1,3,Blue,1,111.132,1,Calf,7950
+34,Hermes,Buckle,Shoulder Bag,Calf,Palladium,2,Leather,30.0,2,4,Black,1,585.0,2,Calf,7800
+35,Hermes,Buckle,Shoulder Bag,Calf,Palladium,2,Leather,30.0,2,4,Black,1,585.0,2,Calf,7800
+36,Hermes,Buckle,Shoulder Bag,Calf,Gold,1,Leather,50.0,2,4,Red,1,111.132,1,Calf,7400
+37,Hermes,Buckle,Shoulder Bag,Calf,Gold,1,Leather,50.0,2,4,Red,1,58.5,1,Calf,6700
+38,Hermes,Buckle,Shoulder Bag,Calf,Palladium,1,Leather,50.0,3,4,Brown,1,574.34,2,Calf,6350
+39,Hermes,Buckle,Shoulder Bag,Calf,Palladium,1,Leather,50.0,0,0,Black,3,177.75000000000003,1,Calf,6050
+40,Hermes,Buckle,Shoulder Bag,Calf,Palladium,0,Leather,50.0,2,4,Black,1,468.0,2,Calf,5350
+41,Hermes,Buckle,Clutch,Calf,Gold,0,None,0.0,2,2,Red,1,159.192,1,Calf,5350
+42,Hermes,Buckle,Shoulder Bag,Calf,Palladium,0,Leather,50.0,1,5,White,3,401.375,1,Calf,5250
+43,Hermes,Buckle,Clutch,Calf,Palladium,0,None,0.0,2,3,Beige,1,60.75,1,Calf,5150
+44,Hermes,Buckle,Shoulder Bag,Lamb,Palladium,1,Leather,50.0,2,6,Black,1,120.669,2,Calf,5100
+45,Hermes,Buckle,Shoulder Bag,Calf,Palladium,0,Leather,50.0,2,7,Black,1,524.628,2,Calf,4825
+46,Hermes,Other,Clutch,Calf,None,0,None,0.0,5,7,Beige,2,131.32000000000002,4,Calf,4675
+47,Hermes,Buckle,Handle Bag,Calf,Palladium,0,Leather,30.0,3,6,Burgundy,1,122.39999999999999,3,Calf,4600
+48,Hermes,Buckle,Clutch,Calf,Palladium,1,None,0.0,1,1,Black,1,177.75000000000003,1,Calf,4525
+49,Hermes,Buckle,Tote,Calf,Palladium,0,Leather,10.0,1,2,Black,1,970.4279999999999,1,Calf,3675
+50,Hermes,Buckle,Clutch,Calf,None,0,None,0.0,1,1,Black,1,67.26,1,Calf,3535
+51,Tom Ford,Clasp,Clutch,Alligator,Gold,1,None,0.0,3,6,Black,1,165.9045941,1,Calf,17000
+52,Tom Ford,Chain,Shoulder Bag,Alligator,Gold,2,Metal,25.0,3,7,Red,1,107.89150377600001,2,Others,13300
+53,Tom Ford,Lock,Shoulder Bag,"Crystal, Others",Ruthenium,0,"Metal,Leather",58.0,1,5,Multicolor,10,117.43292928000001,1,Satin,11500
+54,Tom Ford,"Chain, Turnlock",Shoulder Bag,Crystal,Palladium,0,"Metal,Leather",51.0,1,7,Purple,2,92.90657269600001,1,Calf,8950
+55,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Crystal, Others",Ruthenium,1,"Metal,Leather",55.0,2,6,Black,3,68.62486804800001,1,Satin,6850
+56,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Crystal",Palladium,1,"Metal,Leather",55.0,2,5,Multicolor,10,68.62486804800001,1,Satin,5290
+57,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Others",Ruthenium,1,"Metal,Leather",55.0,2,5,Black,2,117.43292928000001,1,Calf,4990
+58,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Others",Palladium,1,"Metal,Leather",58.0,2,7,Red,4,117.43292928000001,1,Satin,4990
+59,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Crystal",Ruthenium,1,"Metal,Leather",55.0,2,7,Black,3,68.62486804800001,1,Satin,4550
+60,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Others",Gold,1,Metal,50.0,2,3,Gold,2,36.95467493280001,2,Calf,3650
+61,Tom Ford,"Chain, Turnlock",Shoulder Bag,"Embroidery, Crystal, Others",Ruthenium,1,"Metal,Leather",55.0,2,4,Green,3,68.62486804800001,1,Satin,4390
+62,Tom Ford,Logo,Shoulder Bag,Calf,Gold,1,Leather,55.0,3,4,Black,2,123.304575744,2,Seude,4190
+63,Tom Ford,"Chain, Turnlock",Shoulder Bag,Python,Ruthenium,1,"Metal,Leather",55.0,2,5,Brown,2,132.11204544,1,Sheep,3990
+64,Tom Ford,"Chain, Turnlock",Shoulder Bag,Python,Ruthenium,1,"Metal,Leather",55.0,2,4,Gold,2,132.11204544,1,Sheep,3790
+65,Tom Ford,Strap,Tote,Leather,Gold,2,"Metal,Leather",20.0,4,6,White,3,855.3031682560003,2,Microfiber,3690
+66,Tom Ford,Logo,Shoulder Bag,Leather,Gold,2,"Metal,Leather",55.0,3,5,Black,2,132.11204544,1,Calf,3590
+67,Louis Vitton,Other,Shoulder Bag,Calf,Silver,0,Leather,50.0,2,10,Yellow,1,346.86,2,Calf,4400
+68,Louis Vitton,Pieces,Tote,Calf,Silver,2,Leather,30.0,2,6,Black,1,339.2,2,Microfiber,4200
+69,Louis Vitton,Pieces,Shoulder Bag,Lamb,Silver,0,"Metal,Leather",30.0,1,3,Red,1,283.05,1,Sheep,3600
+70,Louis Vitton,Pieces,Shoulder Bag,Epi,Silver,0,"Metal,Leather",50.0,2,7,Pink,2,200.291,1,Microfiber,4400
+71,Louis Vitton,Pieces,Shoulder Bag,Calf,Silver,1,Leather,30.0,3,7,Blue,2,720.0,2,Calf,4850
+72,Louis Vitton,Strap,Shoulder Bag,Canvas,None,1,Leather,30.0,3,5,Blue,2,1953.846,2,Calf,4000
+73,Louis Vitton,Strap,Shoulder Bag,Canvas,None,1,Leather,10.0,3,8,Pink,2,697.97,2,Sheep,4000
+74,Louis Vitton,Strap,Shoulder Bag,Calf,Silver,0,"Metal,Leather",50.0,2,6,Brown,2,195.3,1,Microfiber,4000
+75,Louis Vitton,Logo,Shoulder Bag,Epi,Silver,0,"Metal,Leather",50.0,2,3,Blue,1,825.3,1,Microfiber,4100
+76,Louis Vitton,Pieces,Shoulder Bag,Epi,Silver,0,"Metal,Leather",50.0,2,5,Black,1,200.291,1,Microfiber,4200
+77,Louis Vitton,Pieces,Shoulder Bag,Epi,Silver,0,"Metal,Leather",50.0,2,6,Black,2,124.94999999999999,1,Microfiber,3650
+78,Louis Vitton,Pieces,Tote,Epi,Silver,1,Leather,50.0,2,10,Blue,1,517.548,2,Microfiber,3550
+79,Louis Vitton,Pieces,Shoulder Bag,Python,Gold,1,Metal,30.0,2,6,Brown,2,266.526,1,Microfiber,3950
+80,Louis Vitton,Lock,Handle Bag,Calf,Gold,1,Leather,50.0,3,13,Brown,4,602.07,2,Calf,4550
+81,Louis Vitton,Pieces,Shoulder Bag,Calf,Gold,0,Leather,30.0,1,5,Brown,1,102.424,2,Others,4200
+82,Louis Vitton,Pieces,Shoulder Bag,Lamb,Gold,0,Leather,30.0,2,6,Brown,2,73.549,2,Others,5200
+83,Louis Vitton,Pieces,Shoulder Bag,Calf,Silver,0,Leather,30.0,2,6,Brown,3,81.686,2,Sheep,5400
+84,Louis Vitton,Pieces,Shoulder Bag,Epi,Silver,0,Leather,30.0,2,6,Gold,2,59.616,2,Microfiber,5750
+85,Louis Vitton,Pieces,Shoulder Bag,Calf,Gold,0,Leather,30.0,2,7,Black,3,80.0,2,Sheep,5500
+86,Louis Vitton,Strap,Shoulder Bag,Calf,Silver,2,Leather,10.0,2,5,Beige,1,495.88,2,Microfiber,3650
+87,Louis Vitton,Strap,Tote,Calf,None,0,Leather,30.0,1,6,Pink,1,806.0500000000001,2,Calf,3650
+88,Louis Vitton,Strap,Shoulder Bag,Calf,None,1,Leather,10.0,3,3,Beige,1,894.8520000000001,2,Microfiber,4150
+89,Louis Vitton,Strap,Shoulder Bag,Calf,None,0,Leather,10.0,1,10,Beige,1,1326.6000000000001,2,Microfiber,3900
+90,Louis Vitton,Strap,Shoulder Bag,Calf,Silver,1,Leather,10.0,6,10,Pink,1,1120.0,2,Microfiber,4250
+91,Louis Vitton,Pieces,Shoulder Bag,Calf,Gold,2,Leather,10.0,3,7,Blue,1,1067.22,2,Others,3500
+92,Louis Vitton,Pieces,Shoulder Bag,Epi,Silver,0,Leather,30.0,1,5,Red,1,225.589,2,Microfiber,3800
+93,Louis Vitton,Pieces,Handle Bag,Others,Gold,1,Leather,65.0,2,6,Black,1,1386.0,2,Calf,4000
+94,Celine,Lock,Handle Bag,Calf,Brass,0,Leather,10.0,2,5,Black,1,585.0,2,Others,4500
+95,Celine,Lock,Handle Bag,Calf,Brass,0,Leather,10.0,2,5,Black,1,585.0,2,Others,4550
+96,Celine,Lock,Handle Bag,Crocodile,Gold,0,Leather,10.0,2,5,Black,1,585.0,2,Others,37200
+97,Celine,Lock,Handle Bag,Calf,Brass,0,Leather,10.0,2,4,Black,1,252.0,2,Others,4150
+98,Celine,Lock,Handle Bag,Lizard,Brass,0,Leather,10.0,2,5,Green,1,252.0,2,Others,7500
+99,Celine,Clasp,Shoulder Bag,Lizard,Gold,0,Metal,50.0,2,4,Black,1,144.0,2,Others,7000
+100,Celine,Clasp,Shoulder Bag,Calf,Gold,0,Leather,50.0,2,3,Black,1,162.0,2,Others,3850
+101,Celine,Clasp,Shoulder Bag,Crocodile,Gold,0,Leather,50.0,2,3,Red,1,162.0,2,Others,24800
+102,Celine,Strap,Handle Bag,Calf,Leather,0,Leather,10.0,2,2,Black,1,1859.0,2,Calf,3950
+103,Celine,Strap,Handle Bag,Calf,Leather,0,Leather,10.0,2,3,Blue,1,1859.0,2,Calf,4150
+104,Celine,Strap,Handle Bag,Calf,Leather,0,Leather,10.0,2,3,Yellow,1,1859.0,2,Calf,4700
+105,Celine,Clasp,Shoulder Bag,Lizard,Brass,0,Leather,50.0,2,2,Green,1,189.0,2,Others,7000
+106,Celine,Clasp,Shoulder Bag,Calf,Brass,0,Leather,50.0,2,2,Black,1,189.0,2,Others,4400
+107,Celine,Strap,Handle Bag,Calf,Leather,2,Leather,10.0,3,5,Beige,1,1008.0,2,Calf,3600
+108,Celine,Strap,Shoulder Bag,Snake,Gold,0,Metal,50.0,2,3,Brown,1,144.0,2,Others,3500
+109,Chanel,Chain,Handle Bag,Calf,Gold,0,"Metal,Leather",35.0,1,4,Blue,1,108.37599999999999,1,Calf,4200
+110,Chanel,Chain,Handle Bag,Lamb,Gold,1,"Metal,Leather",55.0,1,3,Red,2,191.66000000000003,1,Calf,4500
+111,Chanel,Chain,Tote,Calf,Silver,1,"Metal,Leather",10.0,1,3,Silver,1,667.8749999999999,1,Calf,4100
+112,Chanel,Chain,Shoulder Bag,Calf,Silver,1,"Metal,Leather",30.0,2,3,Red,1,348.582,1,Calf,4500
+113,Chanel,Chain,Shoulder Bag,Calf,Gold,1,"Metal,Leather",50.0,1,5,Black,2,93.98700000000001,1,Calf,4500
+114,Chanel,Chain,Purse,Calf,Gold,1,Leather,30.0,3,12,White,1,116.702,1,Satin,4800
+115,Chanel,Chain,Purse,Others,Gold,1,"Metal,Leather",30.0,2,3,Black,2,190.89000000000001,1,Satin,7000
+116,Chanel,Strap,Tote,Calf,Gold,2,Leather,50.0,3,10,White,1,555.399,1,Microfiber,5200
+117,Chanel,Strap,Purse,Lamb,Gold,1,"Metal,Leather",50.0,2,10,White,6,110.66999999999999,1,Others,3900
+118,Chanel,Clasp,Clutch,"Embroidery, Others",Silver,0,None,0.0,1,3,Yellow,3,77.14199999999998,1,Satin,5100
+119,Chanel,Chain,Shoulder Bag,Calf,Gold,1,"Metal,Leather",50.0,2,4,Yellow,1,123.87600000000002,1,Satin,4300
+120,Chanel,Chain,Shoulder Bag,"Embroidery, Others",Silver,0,Metal,50.0,1,3,Black,2,190.89000000000001,1,Others,8200
+121,Chanel,Chain,Shoulder Bag,"Calf, Python",Gold,2,"Metal,Leather",55.0,3,6,Pink,2,142.662,1,Calf,5800
+122,Chanel,Chain,Shoulder Bag,Others,Gold,0,Metal,50.0,2,5,Pink,4,169.074,1,Others,6600
+123,Chanel,Chain,Shoulder Bag,"Calf, Python",Gold,0,"Metal,Leather",50.0,3,5,Green,1,103.194,1,Others,6100
+124,Chanel,Chain,Shoulder Bag,Calf,Gold,0,"Metal,Leather",50.0,1,5,Black,1,98.98200000000001,1,Calf,6000
+125,Chanel,Crystals,Clutch,Lizard,Gold,1,"Metal,Leather",50.0,2,5,Gold,1,93.775,1,Satin,9200
+126,Chanel,Chain,Handle Bag,Python,Gold,1,"Metal,Leather",50.0,2,5,Yellow,1,169.074,1,Calf,10300
+127,Chanel,Buckle,Handle Bag,Embroidery,Gold,0,"Metal,Leather",50.0,2,5,Pink,3,201.79800000000003,1,Others,10000
+128,Chanel,Lock,Handle Bag,Python,Gold,0,Leather,50.0,2,5,Black,2,85.8,1,Satin,5100
+129,Chanel,Lock,Handle Bag,"Lizard, Lamb",Gold,0,Leather,50.0,2,5,Black,2,85.8,1,Satin,8800
+130,Chanel,Chain,Handle Bag,"Lamb, Python",Gold,0,Leather,50.0,2,4,Black,1,185.22000000000003,1,Calf,5100
+131,Chanel,Chain,Clutch,"Calf, Python",Gold,0,Leather,0.0,2,3,Black,2,134.78400000000002,1,Calf,6500
+132,Chanel,Chain,Handle Bag,"Calf, Python",Ruthenium,0,Metal,30.0,1,3,Black,2,98.98200000000001,1,Calf,6800
+133,Chanel,Chain,Handle Bag,Calf,Gold,0,"Metal,Leather",30.0,1,5,Red,1,98.98200000000001,1,Calf,5400
+134,Chanel,Chain,Clutch,Calf,Gold,0,"Metal,Leather",20.0,1,9,Black,3,169.012,1,Calf,7900
+135,Chanel,"Chain, Turnlock",Handle Bag,Calf,Gold,0,"Metal,Leather",30.0,1,6,Red,3,169.012,1,Calf,5700
+136,Chanel,Chain,Handle Bag,Calf,Gold,0,"Metal,Leather",20.0,1,4,Green,1,240.236,1,Calf,6200
+137,Chanel,Chain,Shoulder Bag,Calf,Gold,1,"Metal,Leather",55.0,2,5,Black,2,142.662,1,Calf,7100
+138,Chanel,Chain,Shoulder Bag,"Calf, Others",Gold,1,"Metal,Leather",55.0,2,5,White,2,142.662,1,Others,3900
+139,Chanel,Chain,Clutch,Lamb,Ruthenium,1,"Metal,Leather",20.0,2,3,Black,2,169.074,1,Calf,8200
+140,Chanel,Chain,Handle Bag,Python,Gold,1,Metal,55.0,2,5,Orange,1,169.074,1,Satin,10300
+141,Chanel,Chain,Clutch,"Lamb, Python",Gold,1,Metal,30.0,2,5,Black,3,169.074,1,Calf,11000
