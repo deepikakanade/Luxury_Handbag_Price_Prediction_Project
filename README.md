@@ -18,4 +18,4 @@ Based on experts opinion, out of the all the features collected, below are the f
 - Ordering Categorical Features using One Hot Encoding - Brand, Accessories, Bag style, Major color, Skin Type
 
 ## Final Model - Ensemble Regression Model
-Final model was a obtained by combining fuzzy approximations of numerical features along with the categorical features and build various regression models. For more details and results of other models like MLP, CNN, SVR, Random Forest Regressor etc., kindly looking into the [presentation.pdf](https://github.com/deepikakanade/Luxury_Handbag_Price_Prediction_Project/blob/master/FinalPresentation.pptx)
+Final model was a obtained by combining fuzzy approximations of numerical features along with the categorical features and build various regression models. For more details and results of other models like MLP, CNN, SVR, Random Forest Regressor etc., kindly looking into the [FinalPresentation.pdf](https://github.com/deepikakanade/Luxury_Handbag_Price_Prediction_Project/blob/master/FinalPresentation.pptx)
